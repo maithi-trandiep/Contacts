@@ -9,7 +9,7 @@ import android.widget.EditText;
 
 public class AddActivity extends AppCompatActivity {
 
-    EditText nom_input, prenom_input, telephone_input;
+    EditText nom_inpu, prenom_input, telephone_input;
     Button add_button;
 
     @Override
